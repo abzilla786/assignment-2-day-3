@@ -195,3 +195,56 @@ NLP provides you with the ability to improve your communication and reverse nega
 - Likability - give compliments and build co-operation
     - Freely give honest flattery
 - The bystander effect - people look to others to determine their own actions
+
+
+
+# Presentation skills
+
+## What are the qualities of a good presenter?
+- Confidence
+- Good tone of voice
+- Emotion
+- Knowledge
+- Clarity
+- Relatable
+- Preparation and planning
+- Appearance
+- Movement
+- Attitude
+- Diligence
+- Enthusiasm
+
+Confidence
+Manner
+Attitude
+Diligence
+Enthusiasm
+
+## Good slides
+- Bullet points
+- Spelling
+- Formatting
+- Content
+- Appropriate visual effects
+- Readability
+- Company logo
+- Credibility
+
+## Structuring a presentation
+- Introduction and background (find your angle)
+- Agenda / Outline
+- Sections ( there should be 3 sections)
+    - Lead-in
+    - Content (rule of three)
+    - Summary/review
+- Conclusion
+- Any questions
+
+## If you are presenting…
+- Understand your audience
+- Keep it simple (KISS)
+- Your slides are an aid, not the end product
+- Use notes
+- Use diagrams/images appropriately
+
+🎂🦠
